@@ -1,0 +1,4 @@
+[submodule "curiousengineerblog/public"]
+	path = curiousengineerblog/public
+	url = https://github.com/RandomInterests/curiousengineer.github.io
+	branch = main

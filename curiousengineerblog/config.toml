@@ -1,0 +1,4 @@
+baseURL = "https://curiousengineer.github.io/"
+languageCode = "en-us"
+title = "Curious Engineer Blog"
+theme="hugo-theme-hello-friend-ng"
